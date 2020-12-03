@@ -36,7 +36,7 @@ public class TicTocToe {
 		  return player;
 		  
 		 }
-	 //UseCase3
+	 //UseCase_3
 	 public static void displayBoard(char tictoc[]) {
 	 for(int i=1;i<=9;i++) {
 		 System.out.println(tictoc[i]+" ");
