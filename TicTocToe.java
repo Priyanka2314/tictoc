@@ -47,6 +47,7 @@ public class TicTocToe {
 	       System.out.println(board[i]+"|"+board[i+1]+"|"+board[i+2]+"|x");
 	        }
 	 }
+	 //UseCase4
 	 
 	 public static void userDesiredPlace(char[] board,int pos,String user) {
 		 char symbol=' ';
